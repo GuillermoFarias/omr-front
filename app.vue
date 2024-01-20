@@ -3,8 +3,8 @@ import { useConfigStore } from "~/store/config";
 
 const i18n = useI18n();
 
-const darkTheme = "/themes/bootstrap4-dark-blue/theme.css";
-const lightTheme = "/themes/bootstrap4-light-purple/theme.css";
+const darkTheme = "/themes/lara-dark-blue/theme.css";
+const lightTheme = "/themes/lara-light-purple/theme.css";
 
 const configStore = useConfigStore();
 const isDark = useState("isDark", () => configStore.isDark);
