@@ -1,0 +1,38 @@
+[
+    {
+        "title": "UFacil",
+        "description_es": "Herramienta web para convertir UF a CLP",
+        "description_en": "Web tool to convert UF to CLP",
+        "image": "/images/projects/ufacil.png",
+        "type": "Web, Back and Front",
+        "motivation": "Technical Test",
+        "technologies": [
+            "postgresql",
+            "vue",
+            "typescript",
+            "adonisjs",
+            "primevue",
+            "railway"
+        ],
+        "repository": "https://github.com/GuillermoFarias/ufacil-back",
+        "url": "https://ufacil.gfarias.cl"
+    },
+    {
+        "title": "Previscraper",
+        "description_es": "Indicadores de Previsión en Chile",
+        "description_en": "Chilean Pension Fund Indicators",
+        "image": "/images/projects/previscraper.png",
+        "type": "Package composer",
+        "motivation": "Resolving a problem",
+        "technologies": [
+            "laravel",
+            "composer",
+            "phpunit",
+            "codefactor",
+            "codacy",
+            "codecov"
+        ],
+        "repository": "https://github.com/GuillermoFarias/laravel-previ-scraper",
+        "url": "https://github.com/GuillermoFarias/laravel-previ-scraper"
+    }
+]

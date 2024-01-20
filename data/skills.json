@@ -1,0 +1,148 @@
+{
+    "technologies": {
+        "items": [
+            "php",
+            "java",
+            "javascript",
+            "typescript",
+            "nodejs",
+            "elixir"
+        ]
+    },
+    "methodologies": {
+        "tags": [
+            "scrum",
+            "kanban",
+            "tdd",
+            "ddd",
+            "ci/cd",
+            "devops"
+        ]
+    },
+    "frameworks": {
+        "items": [
+            "laravel",
+            "symfony",
+            "express",
+            "nextjs",
+            "nestjs",
+            "nuxtjs",
+            "loopback",
+            "electron",
+            "adonisjs",
+            "spring",
+            "springboot",
+            "ionic",
+            "phoenix"
+        ]
+    },
+    "front": {
+        "items": [
+            "vue",
+            "angular",
+            "react",
+            "jquery",
+            "webpack",
+            "gulp",
+            "bootstrap",
+            "tailwindcss",
+            "materialize",
+            "primevue",
+            "vuetify",
+            "antdesign"
+        ]
+    },
+    "databases": {
+        "items": [
+            "mysql",
+            "mssql",
+            "postgresql",
+            "mongodb",
+            "redis"
+        ]
+    },
+    "cloud": {
+        "items": [
+            "aws",
+            "azure",
+            "gcp"
+        ]
+    },
+    "infra": {
+        "items": [
+            "kubernetes",
+            "docker",
+            "terraform"
+        ]
+    },
+    "platforms": {
+        "items": [
+            "heroku",
+            "netlify",
+            "firebase",
+            "digitalocean",
+            "railway",
+            "cloudflare"
+        ]
+    },
+    "cicd": {
+        "items": [
+            "github",
+            "gitlab",
+            "bitbucket",
+            "aws",
+            "drone"
+        ]
+    },
+    "testing": {
+        "items": [
+            "phpunit",
+            "pest",
+            "jest",
+            "supertest",
+            "junit"
+        ]
+    },
+    "brokers": {
+        "items": [
+            "rabbitmq",
+            "redis"
+        ]
+    },
+    "monitoring": {
+        "items": [
+            "sentry",
+            "datadog",
+            "prometheus",
+            "grafana",
+            "sumologic"
+        ]
+    },
+    "mobile": {
+        "items": [
+            "ionic",
+            "reactnative"
+        ]
+    },
+    "pubsub": {
+        "items": [
+            "rabbitmq",
+            "redis",
+            "kafka"
+        ]
+    },
+    "iot": {
+        "items": [
+            "arduino",
+            "raspberrypi"
+        ]
+    },
+    "quality": {
+        "items": [
+            "sonarqube",
+            "codacy",
+            "codecov",
+            "codefactor"
+        ]
+    }
+}
