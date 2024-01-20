@@ -1,0 +1,195 @@
+{
+    "description": {
+        "long": "+7 años de experiencia en tecnología. He tocado cada parte del ciclo de vida del desarrollo de software, desde el diseño hasta la implementación y el mantenimiento, enfocándome en el producto y prestando atención al equipo humano.",
+        "short": "Especialista en BackEnd, amigo del FrontEnd y entusiasta DevOps."
+    },
+    "contact": "Contacto",
+    "resume": "Descargar CV",
+    "sections": {
+        "experience": "Experiencia",
+        "education": "Educación",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "hobbies": "Hobbies"
+    },
+    "skills": {
+        "technologies": "Tecnologías",
+        "methodologies": "Metodologías",
+        "frameworks": "Frameworks",
+        "front": "FrontEnd",
+        "databases": "Bases de Datos",
+        "cloud": "Nube",
+        "infra": "Infraestructura",
+        "platforms": "Plataformas",
+        "cicd": "CI/CD",
+        "testing": "Pruebas",
+        "brokers": "Brokers",
+        "monitoring": "Monitoreo",
+        "mobile": "Móvil",
+        "pubsub": "Pub/Sub",
+        "iot": "IoT",
+        "quality": "Calidad"
+    },
+    "experience": [
+        {
+            "company": {
+                "name": "Linio MX (Latam)",
+                "industry": "E-commerce",
+                "url": "https://www.linio.com.mx/",
+                "color": "#FF6B22",
+                "avatar": "L",
+                "description": "Linio es una plataforma de comercio electrónico parte del Grupo Falabella, la empresa minorista más grande de América Latina."
+            },
+            "from": "2022",
+            "to": "2023",
+            "job": {
+                "title": "Ingeniero de Software Senior",
+                "team": "LinioPayments and Checkout",
+                "description": "Parte del equipo de Linio Payments and Checkout, responsables de los métodos de pago y el proceso de checkout de la plataforma de Linio. Trabajamos bajo estándar PCI-DSS y con un alto volumen de transacciones, velando por la seguridad de los datos de los clientes y la disponibilidad de los servicios dentro de un flujo complejo.",
+                "lasProject": {
+                    "position": "Backend Lead",
+                    "title": "Implementar un nuevo método de pago tipo wallet - Mastercard Click to Pay"
+                }
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "aws",
+                "gcp",
+                "gitlab",
+                "jira",
+                "confluence"
+            ]
+        },
+        {
+            "company": {
+                "name": "Lemontech CL (Latam)",
+                "industry": "Legal Tech",
+                "url": "https://www.lemontech.com/",
+                "color": "#409D22",
+                "avatar": "L",
+                "description": "Lemontech CL es una empresa de Legal Tech especializada en el mantenimiento y evolución del producto Timebilling Classic y todas sus integraciones."
+            },
+            "from": "2019",
+            "to": "2022",
+            "job": {
+                "title": "Ingeniero de Software",
+                "team": "Timebilling Classic",
+                "description": "Responsable de mantener y evolucionar el producto Timebilling Classic y todas sus integraciones, tanto con proveedores de facturación a lo largo de Latam como con sistemas de gestión de clientes.",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "aws",
+                "gcp",
+                "jira"
+            ]
+        },
+        {
+            "company": {
+                "name": "Green I&C",
+                "industry": "Ingeniería",
+                "url": "https://www.green.cl/",
+                "color": "#05ACED",
+                "avatar": "G",
+                "description": "Green I&C es una empresa de ingeniería especializada en el mantenimiento y evolución de sistemas internos."
+            },
+            "from": "2018",
+            "to": "2019",
+            "job": {
+                "title": "Ingeniero",
+                "team": "Equipo de TI",
+                "description": "Responsable de mantener y evolucionar los sistemas internos de la empresa",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "gitlab",
+                "azure"
+            ]
+        },
+        {
+            "company": {
+                "name": "Inpact SA",
+                "industry": "Banca",
+                "url": "https://www.linkedin.com/company/inpactsa",
+                "color": "#1054A0",
+                "avatar": "I",
+                "description": "Inpact SA es una empresa bancaria especializada en el mantenimiento y evolución de sistemas para la empresa y sus clientes."
+            },
+            "from": "2016",
+            "to": "2018",
+            "job": {
+                "title": "Ingeniero de Software",
+                "team": "Equipo de Desarrollo",
+                "description": "Responsable de mantener y evolucionar los sistemas de la empresa y sus clientes",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql"
+            ]
+        },
+        {
+            "company": {
+                "name": "Sofnet SA",
+                "industry": "IoT",
+                "url": "#",
+                "color": "#1054A0",
+                "avatar": "S",
+                "description": "Sofnet SA es una empresa de IoT especializada en el mantenimiento y evolución de sistemas para la empresa y sus clientes. Liderando el equipo de desarrollo y asegurando la calidad del código y la seguridad del sistema. Diseñando e implementando integraciones IoT con sistemas y hardware de terceros."
+            },
+            "from": "2016",
+            "to": "2023",
+            "job": {
+                "title": "Ingeniero de Software - Líder Técnico",
+                "team": "Equipo de Desarrollo",
+                "description": "Responsable de mantener y evolucionar los sistemas de la empresa y sus clientes. Liderar al equipo de desarrollo y velar por la calidad del código y la seguridad de los sistemas. Diseñar e implementar integraciones IoT con sistemas y hardware de terceros.",
+                "lasProject": {
+                    "position": "Líder Técnico",
+                    "title": "Implementar nuevas funcionalidades IoT"
+                }
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "java",
+                "spring",
+                "springboot",
+                "ionic",
+                "electron",
+                "react"
+            ]
+        }
+    ],
+    "openToWork": {
+        "title": "Open to work",
+        "subtitle": "¿y si trabajamos juntos?",
+        "description": "Actualmente estoy buscando un nuevo desafío, si te interesa mi perfil no dudes en contactarme."
+    },
+    "projects": {
+        "type": "Tipo",
+        "motivation": "Motivación",
+        "technologies": "Tecnologías",
+        "repository": "Github",
+        "open": "Visitar"
+    }
+}

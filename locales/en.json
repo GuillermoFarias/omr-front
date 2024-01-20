@@ -1,0 +1,195 @@
+{
+    "description": {
+        "long": "7+ years of experience in technology. I have touched every part of the software development life cycle, from design to deployment and maintenance, focusing on the product and paying attention to the human team.",
+        "short": "BackEnd specialist, FrontEnd friend and DevOps enthusiast"
+    },
+    "contact": "Contact",
+    "resume": "Resume",
+    "sections": {
+        "experience": "Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "projects": "Projects",
+        "hobbies": "Hobbies"
+    },
+    "skills": {
+        "technologies": "Technologies",
+        "methodologies": "Methodologies",
+        "frameworks": "Frameworks",
+        "front": "FrontEnd",
+        "databases": "Databases",
+        "cloud": "Cloud",
+        "infra": "Infra",
+        "platforms": "Platforms",
+        "cicd": "CI/CD",
+        "testing": "Testing",
+        "brokers": "Brokers",
+        "monitoring": "Monitoring",
+        "mobile": "Mobile",
+        "pubsub": "Pub/Sub",
+        "iot": "IoT",
+        "quality": "Quality"
+    },
+    "experience": [
+        {
+            "company": {
+                "name": "Linio MX (Latam)",
+                "industry": "E-commerce",
+                "url": "https://www.linio.com.mx/",
+                "color": "#FF6B22",
+                "avatar": "L",
+                "description": "Linio is an e-commerce platform part of Falabella Group, the largest retail company in Latin America."
+            },
+            "from": "2022",
+            "to": "2023",
+            "job": {
+                "title": "Senior Software Engineer",
+                "team": "LinioPayments and Checkout",
+                "description": "I am part of the Linio Payments and Checkout team, we are responsible for the payment methods and the checkout process of the Linio platform. We work under PCI-DSS standard and with a high volume of transactions, ensuring the security of customer data and the availability of services within a complex flow.",
+                "lasProject": {
+                    "position": "Backend Lead",
+                    "title": "Implement a new wallet payment method - Mastercard Click to Pay"
+                }
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "aws",
+                "gcp",
+                "gitlab",
+                "jira",
+                "confluence"
+            ]
+        },
+        {
+            "company": {
+                "name": "Lemontech CL (Latam)",
+                "industry": "Legal Tech",
+                "url": "https://www.lemontech.com/",
+                "color": "#409D22",
+                "avatar": "L",
+                "description": "Lemontech CL is a Legal Tech company specializing in maintaining and evolving the Timebilling Classic product and all its integrations."
+            },
+            "from": "2019",
+            "to": "2022",
+            "job": {
+                "title": "Software Engineer",
+                "team": "Timebilling Classic",
+                "description": "Responsible for maintaining and evolving the Timebilling Classic product and all its integrations, both with billing providers throughout Latam and with client management systems.",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "aws",
+                "gcp",
+                "jira"
+            ]
+        },
+        {
+            "company": {
+                "name": "Green I&C",
+                "industry": "Engineering",
+                "url": "https://www.green.cl/",
+                "color": "#05ACED",
+                "avatar": "G",
+                "description": "Green I&C is an engineering company specializing in internal systems maintenance and evolution."
+            },
+            "from": "2018",
+            "to": "2019",
+            "job": {
+                "title": "Engineer",
+                "team": "TI Team",
+                "description": "Responsible for maintaining and evolving the internal systems of the company",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "gitlab",
+                "azure"
+            ]
+        },
+        {
+            "company": {
+                "name": "Inpact SA",
+                "industry": "Banking",
+                "url": "https://www.linkedin.com/company/inpactsa",
+                "color": "#1054A0",
+                "avatar": "I",
+                "description": "Inpact SA is a banking company specializing in the maintenance and evolution of systems for the company and its clients."
+            },
+            "from": "2016",
+            "to": "2018",
+            "job": {
+                "title": "Software Engineer",
+                "team": "Dev Team",
+                "description": "Responsible for maintaining and evolving the systems of the company and its clients",
+                "lasProject": null
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql"
+            ]
+        },
+        {
+            "company": {
+                "name": "Sofnet SA",
+                "industry": "IoT",
+                "url": "#",
+                "color": "#1054A0",
+                "avatar": "S",
+                "description": "Sofnet SA is an IoT company specializing in the maintenance and evolution of systems for the company and its clients. Leading the development team and ensuring the quality of code and system security. Designing and implementing IoT integrations with third-party systems and hardware."
+            },
+            "from": "2016",
+            "to": "2023",
+            "job": {
+                "title": "Software Engineer - Tech Lead",
+                "team": "Dev Team",
+                "description": "Responsible for maintaining and evolving the systems of the company and its clients. Lead the development team and ensure the quality of the code and the security of the systems. Design and implement IoT integrations with third-party systems and hardware.",
+                "lasProject": {
+                    "position": "Tech Lead",
+                    "title": "Implement new IoT functionalities"
+                }
+            },
+            "technologies": [
+                "php",
+                "laravel",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "java",
+                "spring",
+                "springboot",
+                "ionic",
+                "electron",
+                "react"
+            ]
+        }
+    ],
+    "openToWork": {
+        "title": "Open to work",
+        "subtitle": "What if we work together?",
+        "description": "I am currently looking for a new challenge, if you are interested in my profile, do not hesitate to contact me."
+    },
+    "projects": {
+        "type": "Type",
+        "motivation": "Motivation",
+        "technologies": "Technologies",
+        "repository": "Github",
+        "open": "Open"
+    }
+}

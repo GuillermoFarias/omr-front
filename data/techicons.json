@@ -1,0 +1,367 @@
+{
+    "docker": {
+        "name": "Docker",
+        "class": "ci-docker"
+    },
+    "php": {
+        "name": "PHP",
+        "class": "ci-php"
+    },
+    "laravel": {
+        "name": "Laravel",
+        "class": "ci-laravel"
+    },
+    "node": {
+        "name": "Node",
+        "class": "ci-node"
+    },
+    "mysql": {
+        "name": "MySQL",
+        "class": "ci-mysql-vertical"
+    },
+    "mongodb": {
+        "name": "MongoDB",
+        "image": "/icons/mongodb.svg"
+    },
+    "redis": {
+        "name": "Redis",
+        "class": "ci-redis"
+    },
+    "nginx": {
+        "name": "Nginx",
+        "class": "ci-nginx"
+    },
+    "apache": {
+        "name": "Apache",
+        "class": "ci-apache"
+    },
+    "kubernetes": {
+        "name": "Kubernetes",
+        "class": "ci-kubernetes"
+    },
+    "javascript": {
+        "name": "JavaScript",
+        "class": "ci-js"
+    },
+    "typescript": {
+        "name": "TypeScript",
+        "class": "ci-ts"
+    },
+    "nodejs": {
+        "name": "Node.js",
+        "class": "ci-nodejs"
+    },
+    "react": {
+        "name": "React",
+        "class": "ci-react"
+    },
+    "reactnative": {
+        "name": "React Native",
+        "class": "ci-react"
+    },
+    "nextjs": {
+        "name": "Next.js",
+        "class": "ci-nextjs"
+    },
+    "express": {
+        "name": "Express",
+        "image": "https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
+    },
+    "nestjs": {
+        "name": "NestJS",
+        "image": "https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574"
+    },
+    "loopback": {
+        "name": "Loopback",
+        "image": "/icons/loopback.svg"
+    },
+    "gcp": {
+        "name": "Google Cloud Platform",
+        "image": "https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"
+    },
+    "aws": {
+        "name": "Amazon Web Services",
+        "class_dark": "ci-aws-light",
+        "class_light": "ci-aws"
+    },
+    "azure": {
+        "name": "Microsoft Azure",
+        "class": "ci-azure"
+    },
+    "postgresql": {
+        "name": "PostgreSQL",
+        "class": "ci-postgresql"
+    },
+    "railway": {
+        "name": "Railway",
+        "class_dark": "ci-railway-light",
+        "class_light": "ci-railway"
+    },
+    "netlify": {
+        "name": "Netlify",
+        "class_dark": "ci-netlify-light ",
+        "class_light": "ci-netlify"
+    },
+    "firebase": {
+        "name": "Firebase",
+        "class": "ci-firebase"
+    },
+    "cloudflare": {
+        "name": "Cloudflare",
+        "image": "/icons/cloudflare.svg"
+    },
+    "digitalocean": {
+        "name": "DigitalOcean",
+        "class": "ci-do"
+    },
+    "rancher": {
+        "name": "Rancher",
+        "image": "/icons/rancher.svg"
+    },
+    "terraform": {
+        "name": "Terraform",
+        "image": "/icons/terraform.svg"
+    },
+    "pulumi": {
+        "name": "Pulumi",
+        "image": "/icons/pulumi.svg"
+    },
+    "gitlabci": {
+        "name": "GitLab CI",
+        "image": "/icons/gitlab.svg"
+    },
+    "githubactions": {
+        "name": "GitHub Actions",
+        "image": "/icons/actions.svg"
+    },
+    "github": {
+        "name": "GitHub",
+        "class_light": "ci-github",
+        "class_dark": "ci-github-light"
+    },
+    "gitlab": {
+        "name": "GitLab",
+        "image": "/icons/gitlab.svg"
+    },
+    "bitbucket": {
+        "name": "Bitbucket",
+        "image": "https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png"
+    },
+    "jira": {
+        "name": "Jira",
+        "image": "https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"
+    },
+    "confluence": {
+        "name": "Confluence",
+        "image": "/icons/confluence.svg"
+    },
+    "primevue": {
+        "name": "PrimeVue",
+        "image": "/icons/primevue.png"
+    },
+    "vue": {
+        "name": "Vue",
+        "class": "ci-vuejs"
+    },
+    "vuetify": {
+        "name": "Vuetify",
+        "image": "https://github.com/marwin1991/profile-technology-icons/assets/136815194/50c63e54-074f-494b-b786-01eb7870c927"
+    },
+    "nuxt": {
+        "name": "Nuxt",
+        "image": "/icons/nuxt.svg"
+    },
+    "tailwindcss": {
+        "name": "Tailwind CSS",
+        "class": "ci-tailwind"
+    },
+    "bootstrap": {
+        "name": "Bootstrap",
+        "class": "ci-bootstrap"
+    },
+    "bulma": {
+        "name": "Bulma",
+        "image": "https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603"
+    },
+    "material": {
+        "name": "Material Design",
+        "image": "https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"
+    },
+    "materialui": {
+        "name": "Material UI",
+        "image": "https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"
+    },
+    "antdesign": {
+        "name": "Ant Design",
+        "image": "https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"
+    },
+    "chakraui": {
+        "name": "Chakra UI",
+        "image": "https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"
+    },
+    "angular": {
+        "name": "Angular",
+        "class": "ci-angular"
+    },
+    "symfony": {
+        "name": "Symfony",
+        "image_dark": "/icons/symfony-light.svg",
+        "image_light": "/icons/symfony.svg"
+    },
+    "electron": {
+        "name": "Electron",
+        "image": "/icons/electron.svg"
+    },
+    "materialize": {
+        "name": "Materialize",
+        "image": "https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9"
+    },
+    "arduino": {
+        "name": "Arduino",
+        "image": "/icons/arduino.png"
+    },
+    "drone": {
+        "name": "Drone",
+        "image": "/icons/drone.svg"
+    },
+    "adonisjs": {
+        "name": "AdonisJS",
+        "image": "https://avatars.githubusercontent.com/u/13810373?s=200&v=4"
+    },
+    "java": {
+        "name": "Java",
+        "class": "ci-java"
+    },
+    "spring": {
+        "name": "Spring",
+        "class": "ci-spring"
+    },
+    "springboot": {
+        "name": "Spring Boot",
+        "image": "https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"
+    },
+    "ionic": {
+        "name": "Ionic",
+        "image": "/icons/ionic.svg"
+    },
+    "zkteco": {
+        "name": "ZKTeco",
+        "image": "/icons/zkteco.png"
+    },
+    "nuxtjs": {
+        "name": "NuxtJS",
+        "class": "ci-nuxtjs"
+    },
+    "webpack": {
+        "name": "Webpack",
+        "image": "https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"
+    },
+    "junit": {
+        "name": "JUnit",
+        "image": "https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"
+    },
+    "mockito": {
+        "name": "Mockito",
+        "image": "https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png"
+    },
+    "jest": {
+        "name": "Jest",
+        "image": "https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"
+    },
+    "gulp": {
+        "name": "Gulp",
+        "image": "/icons/gulp.svg"
+    },
+    "jquery": {
+        "name": "jQuery",
+        "image": "/icons/jquery.png"
+    },
+    "mssql": {
+        "name": "Microsoft SQL Server",
+        "image": "/icons/sql-server.png"
+    },
+    "heroku": {
+        "name": "Heroku",
+        "image": "/icons/heroku.png"
+    },
+    "phpunit": {
+        "name": "PHPUnit",
+        "image_light": "/icons/phpunit-light.png",
+        "image_dark": "/icons/phpunit.png"
+    },
+    "mocha": {
+        "name": "Mocha",
+        "image": "https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png"
+    },
+    "supertest": {
+        "name": "Supertest",
+        "image": "https://avatars.githubusercontent.com/u/30959108?s=200&v=4"
+    },
+    "pest": {
+        "name": "Pest",
+        "image": "https://pestphp.com/www/assets/logo.svg"
+    },
+    "rabbitmq": {
+        "name": "RabbitMQ",
+        "image": "https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"
+    },
+    "kafka": {
+        "name": "Kafka",
+        "image_dark": "/icons/kafka.png",
+        "image_light": "/icons/kafka-light.png"
+    },
+    "datadog": {
+        "name": "Datadog",
+        "image_dark": "/icons/datadog.png",
+        "image_light": "/icons/datadog-light.png"
+    },
+    "sentry": {
+        "name": "Sentry",
+        "image_dark": "/icons/sentry.svg",
+        "image_light": "/icons/sentry-light.png"
+    },
+    "prometheus": {
+        "name": "Prometheus",
+        "image": "/icons/prometheus.png"
+    },
+    "grafana": {
+        "name": "Prometheus",
+        "image": "https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"
+    },
+    "sumologic": {
+        "name": "Sumo Logic",
+        "image": "/icons/sumologic.png"
+    },
+    "raspberrypi": {
+        "name": "Raspberry Pi",
+        "image": "/icons/raspberrypi.png"
+    },
+    "composer": {
+        "name": "Composer",
+        "image": "/icons/composer.png"
+    },
+    "codecov": {
+        "name": "Codecov",
+        "image": "/icons/codecov.svg"
+    },
+    "codefactor": {
+        "name": "CodeFactor",
+        "image": "/icons/codefactor.svg"
+    },
+    "codacy": {
+        "name": "Codacy",
+        "image": "/icons/codacy.svg"
+    },
+    "sonarqube": {
+        "name": "SonarQube",
+        "image": "https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png"
+    },
+    "elixir": {
+        "name": "Elixir",
+        "image": "https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png"
+    },
+    "phoenix": {
+        "name": "Phoenix",
+        "image": "https://hexdocs.pm/phoenix/assets/logo.png"
+    }
+}
