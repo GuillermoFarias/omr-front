@@ -19,8 +19,8 @@ const openCamera = () => {
   const constraints = {
     video: {
       facingMode: "environment",
-      width: { ideal: 1280 },
-      height: { ideal: 720 },
+      width: { ideal: 1920 }, // Ajustar a la resolución deseada para dispositivos móviles
+      height: { ideal: 1080 },
     },
   };
 
