@@ -9,7 +9,9 @@ const scanner = ref(new jscanify());
 const openCamera = () => {
   const constraints = {
     video: {
-      facingMode: "environment", // 'environment' para la cámara trasera, 'user' para la cámara frontal
+      facingMode: "environment",
+      width: { ideal: 1280 },
+      height: { ideal: 720 },
     },
   };
 
